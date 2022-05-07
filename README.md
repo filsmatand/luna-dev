@@ -1,2 +1,2 @@
 # luna-dev
-<p>startup des freelance.</p>
+<p>startup des freelances.</p>
