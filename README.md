@@ -1,2 +1,2 @@
 # luna-dev
-<p>startup des freelances.</p>
+<p>startup des freelances au congo.</p>
