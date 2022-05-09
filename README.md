@@ -1,2 +1,2 @@
 # luna-dev
-<p>startup des freelances au cong!</p>
+<p>startup des freelances au con!</p>
